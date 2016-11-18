@@ -3,4 +3,4 @@ this application is used for Android
 
 please install it from ”¶”√ª„
 
-Git is  distributed under the GPL.
+Git is free software distributed under the GPL.
